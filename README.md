@@ -1,26 +1,8 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <div align="center">
-    <a href="https://github.com/chirag-droid/animeflix">
-      <img src="https://aniflix.pro/favicon.ico" alt="Logo">
-    </a>
-    <h3>Animeflix - Watch animes online</h3>
+    <h3>GoAnime - Watch animes online</h3>
     <!-- REPOSITORY INFO BADGES -->
-    <a href="https://discord.gg/4UPU8etvae">
-      <img src="https://img.shields.io/discord/971304939525644298?label=discord&logo=discord&color=5460e6&style=flat-square&labelColor=2b2f35">
-    </a>
-    <a href="https://www.gnu.org/licenses/agpl-3.0.en.html">
-      <img src="https://img.shields.io/github/license/chirag-droid/animeflix?logo=gnu&color=a32d2a&labelColor=333&logoColor=fff&style=flat-square">
-    </a>
-    <a href="https://github.com/chirag-droid/animeflix/stargazers">
-      <img src="https://img.shields.io/github/stars/chirag-droid/animeflix?style=flat-square" alt="Github Stars">
-    </a>
-    <a href="https://github.com/chirag-droid/issues">
-      <img src="https://img.shields.io/github/issues/chirag-droid/animeflix?style=flat-square">
-    </a>
-    <a href="https://github.com/chirag-droid/forks">
-      <img src="https://img.shields.io/github/forks/chirag-droid/animeflix?style=flat-square">
-    </a>
   </div>
 
   <hr />
@@ -45,9 +27,6 @@
     <img src="https://img.shields.io/github/package-json/dependency-version/chirag-droid/animeflix/dev/tailwindcss?filename=frontend/package.json&color=37b8f1&logo=tailwindcss&labelColor=0b1120&style=flat-square&logoColor=38bdf8">
   </a>
 </p>
-
-<!-- PREVIEW IMAGE -->
-<img src="https://aniflix.pro/preview.png">
 
 <hr/>
 
@@ -81,13 +60,13 @@ Following are the recommended online deployment services which are tested to wor
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/NBfBbp?referralCode=km83_N)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/chirag-droid/animeflix/tree/main&project-name=animeflix&repo-name=animeflix&root-directory=frontend&build-command=cd%20../%20%26%26%20yarn%20build&install-command=cd%20../%20%26%26%20yarn%20install)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/animeawake/animeflix/tree/main&project-name=animeflix&repo-name=animeflix&root-directory=frontend&build-command=cd%20../%20%26%26%20yarn%20build&install-command=cd%20../%20%26%26%20yarn%20install)
 
-[![Deploy with netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/chirag-droid/animeflix)
+[![Deploy with netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/animeawake/animeflix)
 
 ## Docker Deployment
 
-The docker images for this app is available at dockerhub. [chiragdroid/animeflix](https://hub.docker.com/repository/docker/chiragdroid/animeflix).
+The docker images for this app is available at dockerhub. [animeawake/animeflix](https://hub.docker.com/repository/docker/animeawake/animeflix).
 
 Run it easily using this command
 
@@ -127,6 +106,4 @@ yarn start
 
 This will start the app on http://localhost:3000
 
-## Sponsor this project
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/chiragdroid)
